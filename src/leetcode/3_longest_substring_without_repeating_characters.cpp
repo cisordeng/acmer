@@ -4,8 +4,8 @@
 
 #include "3_longest_substring_without_repeating_characters.h"
 
-int main() {
-    string s = " ";
-    cout<<Solution::lengthOfLongestSubstring(s)<<endl;
-    return 0;
-}
+//int main() {
+//    string s = " ";
+//    cout<<Solution::lengthOfLongestSubstring(s)<<endl;
+//    return 0;
+//}
