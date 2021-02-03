@@ -4,9 +4,9 @@
 
 #include "5_longest_palindromic_substring.h"
 
-int main() {
-    string s = "babba";
-    string result = Solution::longestPalindrome(s);
-    cout<<result<<endl;
-    return 0;
-}
+//int main() {
+//    string s = "babba";
+//    string result = Solution::longestPalindrome(s);
+//    cout<<result<<endl;
+//    return 0;
+//}
